@@ -69,18 +69,16 @@ Right-click on the project and click **Run**
 ## Demo
 
 ### Check-In
-![App Screenshot](https://drive.google.com/uc?id=1m3qfDbW_SRYNT28P29OL9NxIAnGDESm2)
+![App Screenshot](https://drive.google.com/uc?id=1aP-XitbkMYm90vGZX1DDcEx8N7QoSkD6)
 
 ### Activities
-![App Screenshot](https://drive.google.com/uc?id=1ON5d4ljPSyhS5R1ioRdAqdTch6jZNT8P)
-
+![App Screenshot](https://drive.google.com/uc?id=1eSRV27-PsEajSyMV-f-g3lhVUyOMwif0)
 
 ### The Terrace
-![App Screenshot](https://drive.google.com/uc?id=1ON5d4ljPSyhS5R1ioRdAqdTch6jZNT8P)
+![App Screenshot](https://drive.google.com/uc?id=1SxahtQ6VISSyqPT_67R3vmHfvSTL0SMq)
 
 ### Tourism
-![App Screenshot](https://drive.google.com/uc?id=1POFJmqoKwoTIb-SbOa55fiWtgIWrAd3M)
-
+![App Screenshot](https://drive.google.com/uc?id=1ohx4_WPYmAZEazneCvF03i7mi48adRQZ)
 
 ### Checkout
-![App Screenshot](https://drive.google.com/uc?id=1cDx-x5w1ixINebmiP61oVYNFrBeKerf2)
+![App Screenshot](https://drive.google.com/uc?id=1oSr706Q1uAsmuzOhVg1nqB5Z7liwK4Gw)
