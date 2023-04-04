@@ -75,7 +75,7 @@ Right-click on the project and click **Run**
 ![App Screenshot](https://drive.google.com/uc?id=1eSRV27-PsEajSyMV-f-g3lhVUyOMwif0)
 
 ### The Terrace
-![App Screenshot](https://drive.google.com/uc?id=1SxahtQ6VISSyqPT_67R3vmHfvSTL0SMq)
+![App Screenshot](https://drive.google.com/uc?id=1xeM6M0NOMnBQ790cezZc0vjiigRkrq3Z)
 
 ### Tourism
 ![App Screenshot](https://drive.google.com/uc?id=1ohx4_WPYmAZEazneCvF03i7mi48adRQZ)
