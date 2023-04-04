@@ -389,6 +389,11 @@ public class checkout1 extends javax.swing.JFrame {
 
         jTextField2.setFont(new java.awt.Font("CordiaUPC", 0, 18)); // NOI18N
         jTextField2.setEnabled(false);
+        jTextField2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField2ActionPerformed(evt);
+            }
+        });
         jTextField2.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyReleased(java.awt.event.KeyEvent evt) {
                 jTextField2KeyReleased(evt);
@@ -499,8 +504,9 @@ public class checkout1 extends javax.swing.JFrame {
            name=res.getString("name");
            jTextArea1.setText("Thank You Mr. "+name+" \nWe hope you had a great time staying with us. Please come back soon to give us an oppportunity to serve you again.");
            jButton1.setEnabled(true);
-           jButton1.setForeground(new java.awt.Color(187, 187, 187));
+           jTextField2.setEnabled(false);
            jButton1.setText("Check Details");
+           jButton1.setForeground(new java.awt.Color(51, 201, 51));
         }
             res.close();
         sta.close();
@@ -980,6 +986,10 @@ public class checkout1 extends javax.swing.JFrame {
         }
 
     }//GEN-LAST:event_jComboBox1ActionPerformed
+
+    private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField2ActionPerformed
     public class time implements ActionListener {
         public void actionPerformed(ActionEvent e)
         {  

@@ -573,7 +573,7 @@ public class Tourism1 extends javax.swing.JFrame {
             }
         });
 
-        jComboBox4.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { " ", "Atlantis, The Palm", "Manidat Jumeriah", "JW Mariott Hotel", "Le Royal Meridien", "Rose Tower Hotel", "The Grand Hyatt", "Shangri La Resort" }));
+        jComboBox4.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { " ", "Atlantis, The Palm", "Madinat Jumeriah", "JW Mariott Hotel", "Le Royal Meridien", "Rose Tower Hotel", "The Grand Hyatt", "Shangri La Resort" }));
         jComboBox4.setEnabled(false);
         jComboBox4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -738,7 +738,6 @@ public class Tourism1 extends javax.swing.JFrame {
         );
 
         jFrame2.setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        jFrame2.setMaximumSize(new java.awt.Dimension(582, 420));
         jFrame2.setMinimumSize(new java.awt.Dimension(582, 420));
 
         jPanel3.setBackground(new java.awt.Color(0, 0, 0));
@@ -1124,7 +1123,7 @@ public class Tourism1 extends javax.swing.JFrame {
         timer4.start();
         clearBorder();
         jLabel3.setText("Atlantis, The Palm");
-        jLabel4.setText("Manidnat Jumeriah");
+        jLabel4.setText("Madinat Jumeriah");
         jLabel5.setText("JW Mariott Hotel");
         jLabel6.setText("Le Royal Méridien");
         jLabel7.setText("Rose Tower Hotel");
