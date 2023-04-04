@@ -78,7 +78,7 @@ Right-click on the project and click **Run**
 ![App Screenshot](https://drive.google.com/uc?id=1xeM6M0NOMnBQ790cezZc0vjiigRkrq3Z)
 
 ### Tourism
-![App Screenshot](https://drive.google.com/uc?id=1ohx4_WPYmAZEazneCvF03i7mi48adRQZ)
+![App Screenshot](https://drive.google.com/uc?id=1klv423DJ5GYjETRHJPmvxDlwL3CnVHuq)
 
 ### Checkout
 ![App Screenshot](https://drive.google.com/uc?id=1oSr706Q1uAsmuzOhVg1nqB5Z7liwK4Gw)
