@@ -7,7 +7,7 @@ This Content Management System (CMS) is based on the Burj Al Arab, the renowned 
 
 This project was made in Java. I used the Apache Netbeans IDE to leverage the Java GUI capabilities. The frontend is integrated with a MySQL backend to store the data. This project is based on the Burj Al Arab, the only 7-star (self-proclaimed) hotel in the world. The project consists of five main parts:
 
-### Check-in
+## Check-in
 It handles the ingress of new customers. It asks for the customer information, room preferences and number of days for stay, and assigns a unique User ID and password to each customer. 
 
 ## Activities
@@ -68,17 +68,19 @@ Right-click on the project and click **Run**
 - Animations
 ## Demo
 
-### Check-In
+**Note**: *Try refreshing the page or use the links if the images are unable to load*
+
+### Check-In ([Link](https://drive.google.com/uc?id=1aP-XitbkMYm90vGZX1DDcEx8N7QoSkD6))
 ![App Screenshot](https://drive.google.com/uc?id=1aP-XitbkMYm90vGZX1DDcEx8N7QoSkD6)
 
-### Activities
+### Activities ([Link](https://drive.google.com/uc?id=1eSRV27-PsEajSyMV-f-g3lhVUyOMwif0))
 ![App Screenshot](https://drive.google.com/uc?id=1eSRV27-PsEajSyMV-f-g3lhVUyOMwif0)
 
-### The Terrace
+### The Terrace ([Link](https://drive.google.com/uc?id=1xeM6M0NOMnBQ790cezZc0vjiigRkrq3Z))
 ![App Screenshot](https://drive.google.com/uc?id=1xeM6M0NOMnBQ790cezZc0vjiigRkrq3Z)
 
-### Tourism
+### Tourism ([Link](https://drive.google.com/uc?id=1klv423DJ5GYjETRHJPmvxDlwL3CnVHuq))
 ![App Screenshot](https://drive.google.com/uc?id=1klv423DJ5GYjETRHJPmvxDlwL3CnVHuq)
 
-### Checkout
+### Checkout ([Link](https://drive.google.com/uc?id=1oSr706Q1uAsmuzOhVg1nqB5Z7liwK4Gw))
 ![App Screenshot](https://drive.google.com/uc?id=1oSr706Q1uAsmuzOhVg1nqB5Z7liwK4Gw)
