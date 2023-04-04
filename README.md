@@ -71,16 +71,16 @@ Right-click on the project and click **Run**
 **Note**: *Try refreshing the page or use the links if the images are unable to load*
 
 ### Check-In ([Link](https://drive.google.com/uc?id=1aP-XitbkMYm90vGZX1DDcEx8N7QoSkD6))
-![App Screenshot](https://drive.google.com/uc?id=1aP-XitbkMYm90vGZX1DDcEx8N7QoSkD6)
+![App Screenshot](Screenshots/CheckIn.gif)
 
 ### Activities ([Link](https://drive.google.com/uc?id=1eSRV27-PsEajSyMV-f-g3lhVUyOMwif0))
-![App Screenshot](https://drive.google.com/uc?id=1eSRV27-PsEajSyMV-f-g3lhVUyOMwif0)
+![App Screenshot](Screenshots/Activities.gif)
 
 ### The Terrace ([Link](https://drive.google.com/uc?id=1xeM6M0NOMnBQ790cezZc0vjiigRkrq3Z))
-![App Screenshot](https://drive.google.com/uc?id=1xeM6M0NOMnBQ790cezZc0vjiigRkrq3Z)
+![App Screenshot](Screenshots/TheTerrace.gif)
 
 ### Tourism ([Link](https://drive.google.com/uc?id=1klv423DJ5GYjETRHJPmvxDlwL3CnVHuq))
-![App Screenshot](https://drive.google.com/uc?id=1klv423DJ5GYjETRHJPmvxDlwL3CnVHuq)
+![App Screenshot](Screenshots/Tourism.gif)
 
 ### Checkout ([Link](https://drive.google.com/uc?id=1oSr706Q1uAsmuzOhVg1nqB5Z7liwK4Gw))
-![App Screenshot](https://drive.google.com/uc?id=1oSr706Q1uAsmuzOhVg1nqB5Z7liwK4Gw)
+![App Screenshot](Screenshots/CheckOut.gif)
